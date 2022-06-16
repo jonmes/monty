@@ -1,0 +1,5 @@
+n 1992, Urban Müller, a Swiss physics student, took over a small online archive for Amiga software.[2] The archive grew more popular, and was soon mirrored around the world. Today, it is the world's largest Amiga archive, known as Aminet.
+
+Müller designed Brainfuck with the goal of implementing the smallest possible compiler,[3] inspired by the 1024-byte compiler for the FALSE programming language.[4] Müller's original compiler was implemented in machine language and compiled to a binary with a size of 296 bytes. He uploaded the first Brainfuck compiler to Aminet in 1993. The program came with a "Readme" file, which briefly described the language, and challenged the reader "Who can program anything useful with it? :)". Müller also included an interpreter and some quite elaborate examples. A second version of the compiler used only 240 bytes.[5] There are currently many brainfuck compilers in the web.
+
+As Aminet grew, the compiler became popular among the Amiga community, and in time it was implemented for other platforms.
